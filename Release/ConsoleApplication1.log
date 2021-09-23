@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+E:\c++ work\ConsoleApplication1\ConsoleApplication1.cpp(29,21): warning C4018: “<=”: 有符号/无符号不匹配
+E:\c++ work\ConsoleApplication1\ConsoleApplication1.cpp(42,29): warning C4018: “<=”: 有符号/无符号不匹配
+E:\c++ work\ConsoleApplication1\ConsoleApplication1.cpp(49,103): warning C4018: “<=”: 有符号/无符号不匹配
+E:\c++ work\ConsoleApplication1\ConsoleApplication1.cpp(76,29): warning C4018: “<=”: 有符号/无符号不匹配
+E:\c++ work\ConsoleApplication1\ConsoleApplication1.cpp(83,39): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 284 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> E:\c++ work\ConsoleApplication1\Release\ConsoleApplication1.exe
